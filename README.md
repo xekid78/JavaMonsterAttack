@@ -1,4 +1,4 @@
-# Java_SampleCode25
+# JavaSampleCode25
 クラスを使ってのモンスター攻撃表現
 
 #### 処理
